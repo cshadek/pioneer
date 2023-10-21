@@ -30,11 +30,11 @@
       },
       {
         "package": "Graphiti",
-        "repositoryURL": "https://github.com/GraphQLSwift/Graphiti.git",
+        "repositoryURL": "https://github.com/cshadek/Graphiti.git",
         "state": {
-          "branch": null,
-          "revision": "f80bd1342e52b9ee9e19f7f017dc4545e6c3cb6d",
-          "version": "1.10.1"
+          "branch": "public_no_arguments",
+          "revision": "d0317971e002dd8279cb61e729d28010f76431f5",
+          "version": null
         }
       },
       {
